@@ -1,16 +1,15 @@
 [zinker - rapidshare batch downloader](http://github.com/irfan/zinker/) 
 ======================================================================================
-@Project : zinker - rapidshare batch downloader
-@Author  : Irfan Durmus http://irfandurmus.com/
-@Code    : http://github.com/irfan/zinker/
+    @Project : zinker - rapidshare batch downloader
+    @Author  : Irfan Durmus http://irfandurmus.com/
+    @Code    : http://github.com/irfan/zinker/
 
-How to use 
---------------------------------------
-./zinker.sh <username> <password> <rapidshare-url-list.txt>
-I just wrote it in couple of hours. I tried to make it securely, but still could be have some problem.
-Please dont forget to delete the tmp directory after used this script. Your user information will be store in the tmp, so it is important.
-Please notify me if you found a bug!
-Happy coding!
+### How to use 
+    ./zinker.sh <username> <password> <rapidshare-url-list.txt>
+    I just wrote it in couple of hours. I tried to make it securely, but still could be have some problem.
+    Please dont forget to delete the tmp directory after used this script. Your user information will be store in the tmp, so it is important.
+    Please notify me if you found a bug!
+    Happy coding!
 
 After use you will have
 --------------------------------------
