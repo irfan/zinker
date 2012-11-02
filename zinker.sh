@@ -176,6 +176,6 @@ function PUT_SUMMARY () {
 	LOGGER "________________________________________"
 }
 
-
-START_DOWNLOAD	$USERNAME $PASSWORD $FILE_LIST 	# check the directories are exists 
+# call the main method
+START_DOWNLOAD	$USERNAME $PASSWORD $FILE_LIST 
 
